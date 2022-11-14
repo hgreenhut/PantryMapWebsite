@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Research Meta Analysis
-subtitle: Lab 2
+title: PantryMap
+subtitle: Developer: Henry Greenhut
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 # tags: [test]
