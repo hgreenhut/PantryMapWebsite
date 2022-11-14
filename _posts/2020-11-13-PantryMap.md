@@ -6,7 +6,6 @@ subtitle: Developer: Henry Greenhut
 # gh-badge: [star, fork, follow]
 # tags: [test]
 # comments: true
-author: Henry Greenhut
 ---
 I created PantryMap to help volunteers find nearby food pantries to volunteer at. PantryMap uses a combination of Google Map's API and, in NYC, a custom database with detailed volunteering instructions from the pantries themselves.
 
